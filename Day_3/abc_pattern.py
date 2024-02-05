@@ -8,16 +8,3 @@ for i in range (1,4):
             val+=1
         print()
         
-# print()
-# val=66
-# for j in range (0, 4):
-#         ch =chr(val)
-#         print(ch,end=" ")
-#         val=val+1
-# print()
-# val=67
-# for k in range (0, 3):
-#         ch =chr(val)
-#         print(ch,end=" ")
-#         val=val+1
-# print()
