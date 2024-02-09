@@ -1,4 +1,5 @@
 a=(1,2,"Election","India",23,24)
+
 # print(a)
 # b=a[0]
 # print(b)
