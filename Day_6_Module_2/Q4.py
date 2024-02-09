@@ -2,6 +2,7 @@
 # enter the type of vehical as a charter (c=car, b=bus) etc .
 # and num of houres, then calculate charges as given below
 
+
 # truck/bus - 20 rs per/hr
 # car - 10 rs per/hr
 # cycle /scooter/bike -5 rs per/hr
