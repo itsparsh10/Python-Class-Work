@@ -3,6 +3,8 @@
   #Expected outcome: [('',),('a','b'),('a','b','c'),'d']
 
 
+
+
 a=[(),('',),('',),('a','b'),('a','b','c'),('d')]
 a.reverse()
 a.pop()
