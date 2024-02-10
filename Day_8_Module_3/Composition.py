@@ -42,5 +42,6 @@ while(not(int(n) == n)):
     except:
         print("We take input as integer only")
 
-    
+
+
 print(fact(n))
