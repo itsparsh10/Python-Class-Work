@@ -14,7 +14,7 @@ class College:
           else:
             self.department="Pgdm"
         
-         
+
 
     def setData(self,x):
         for i in range(x):
