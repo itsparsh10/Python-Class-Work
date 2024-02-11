@@ -50,6 +50,7 @@
 
 #         self.quantity = int(input(f"Enter the quantity for Product {self.__itemcode}: "))
 
+
 #     def generate_bill(self):
 #         total_amount = self.__price * self.quantity
 #         print("Product Code:", self.__itemcode)
