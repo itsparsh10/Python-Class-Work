@@ -24,7 +24,6 @@
 
 
 
-
 # class Store:
 #     __itemcode = 0
 #     __price = 0
