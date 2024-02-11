@@ -19,6 +19,3 @@ obj.display()
 obj1.display()
 
 print(Student.count)
-
-
-        
