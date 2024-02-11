@@ -17,6 +17,7 @@ obj = Student("xyzqwe" ,300)
 obj1 = Student("xyz" ,30)
 obj.display()
 obj1.display()
+
 print(Student.count)
 
 
