@@ -23,5 +23,7 @@ class Child(Father):
 obj = Child("John")
 
 
+
+
         
         
