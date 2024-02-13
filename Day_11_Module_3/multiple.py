@@ -64,6 +64,7 @@ class Btech(LU,ITM):
 #     teacher=["Sai Sir","Prasad Sir","Nidhi Mam"," Swpnil Sir "]
 #     duration=["55 Min","60 Min","90 Min"]
 # class ITM:
+            
 #     subject=[" PGDM ","B-Tech"]
 #     teacher=[" Any Teacher "," Sumit Sir "]
 #     duration=["Matpucho","Jubtak Man Karta Hai Tub Tak Padhate Hai"]
