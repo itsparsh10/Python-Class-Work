@@ -125,6 +125,8 @@
 # Q4
 
 class Shape:     
+
+        
     def formula(self, shape, side, width, height, base):
         if shape.lower() == "square":
             area = side * side
