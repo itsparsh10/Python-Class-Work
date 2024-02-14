@@ -9,4 +9,6 @@ def fact(a):
 a=int(input("Enter a positive number: "))
 c=fact(a)
 print("Factorial of",a,"is",c)
+
+
         
