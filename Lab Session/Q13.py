@@ -7,3 +7,4 @@ def palin(a):
         print("String is not a palindrome")
 a=input("Enter a string: ")
 palin(a)
+
