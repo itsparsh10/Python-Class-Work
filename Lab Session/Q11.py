@@ -10,3 +10,4 @@ def perfect(a):
         print(a,"is not a perfect number")
 a=int(input("Enter a number: "))
 perfect(a)
+
